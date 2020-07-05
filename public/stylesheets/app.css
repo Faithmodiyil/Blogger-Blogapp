@@ -1,0 +1,18 @@
+i.icon{
+    font-size: 2em;
+}
+.container.main{
+    margin-top: 7.0em;
+}
+.font{
+    font-family:'Montserrat', sans-seri;
+}
+.primary{
+    width: 10em;
+}
+h5{
+    font-family:'Montserrat', sans-seri;
+}
+#delete{
+    display: inline;
+}
